@@ -15,6 +15,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 934,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -43,7 +51,6 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Student/Desktop/project 1/index.html",
 		"/C/Users/Student/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Sublime Text 3.lnk",
 		"/C/Users/Student/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/Mozilla Firefox.lnk",
@@ -56,6 +63,7 @@
 		"/C/Users/Public/Desktop/NetBeans IDE 8.0.lnk",
 		"/C/Users/Student/Desktop/project 1/main.js",
 		"/C/Users/Student/Desktop/project 1/main.css",
+		"/C/Users/Student/Desktop/project 1/index.html",
 		"/C/Users/Student/Desktop/project 1/css/main.css",
 		"/C/Users/Student/Desktop/project 1/css/custom.css",
 		"/C/Users/Student/Desktop/project 1/images",
@@ -102,8 +110,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -142,7 +179,7 @@
 	{
 		"height": 0.0
 	},
-	"project": "index.sublime-project",
+	"project": "project 1.sublime-project",
 	"replace":
 	{
 		"height": 42.0
@@ -170,11 +207,11 @@
 	},
 	"select_symbol":
 	{
-		"height": 35.0,
+		"height": 0.0,
 		"selected_items":
 		[
 		],
-		"width": 392.0
+		"width": 0.0
 	},
 	"settings":
 	{
